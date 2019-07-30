@@ -1,0 +1,543 @@
+E:\ITI\final project\library back end\library\bin\library.dll.config
+E:\ITI\final project\library back end\library\bin\library.dll
+E:\ITI\final project\library back end\library\bin\library.pdb
+E:\ITI\final project\library back end\library\bin\roslyn\csc.exe
+E:\ITI\final project\library back end\library\bin\roslyn\csc.exe.config
+E:\ITI\final project\library back end\library\bin\roslyn\csc.rsp
+E:\ITI\final project\library back end\library\bin\roslyn\csi.exe
+E:\ITI\final project\library back end\library\bin\roslyn\csi.exe.config
+E:\ITI\final project\library back end\library\bin\roslyn\csi.rsp
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ITI\final project\library back end\library\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ITI\final project\library back end\library\bin\roslyn\System.AppContext.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Collections.Immutable.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Console.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.IO.Compression.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.IO.FileSystem.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.IO.Pipes.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Reflection.Metadata.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Security.AccessControl.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Security.Claims.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.ValueTuple.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Xml.XPath.dll
+E:\ITI\final project\library back end\library\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ITI\final project\library back end\library\bin\roslyn\vbc.exe
+E:\ITI\final project\library back end\library\bin\roslyn\vbc.exe.config
+E:\ITI\final project\library back end\library\bin\roslyn\vbc.rsp
+E:\ITI\final project\library back end\library\bin\roslyn\VBCSCompiler.exe
+E:\ITI\final project\library back end\library\bin\roslyn\VBCSCompiler.exe.config
+E:\ITI\final project\library back end\library\bin\Antlr3.Runtime.dll
+E:\ITI\final project\library back end\library\bin\EntityFramework.dll
+E:\ITI\final project\library back end\library\bin\EntityFramework.SqlServer.dll
+E:\ITI\final project\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\final project\library back end\library\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI\final project\library back end\library\bin\Newtonsoft.Json.dll
+E:\ITI\final project\library back end\library\bin\System.Net.Http.Formatting.dll
+E:\ITI\final project\library back end\library\bin\System.Web.Helpers.dll
+E:\ITI\final project\library back end\library\bin\System.Web.Http.dll
+E:\ITI\final project\library back end\library\bin\System.Web.Http.WebHost.dll
+E:\ITI\final project\library back end\library\bin\System.Web.Mvc.dll
+E:\ITI\final project\library back end\library\bin\System.Web.Optimization.dll
+E:\ITI\final project\library back end\library\bin\System.Web.Razor.dll
+E:\ITI\final project\library back end\library\bin\System.Web.WebPages.Deployment.dll
+E:\ITI\final project\library back end\library\bin\System.Web.WebPages.dll
+E:\ITI\final project\library back end\library\bin\System.Web.WebPages.Razor.dll
+E:\ITI\final project\library back end\library\bin\WebGrease.dll
+E:\ITI\final project\library back end\library\bin\EntityFramework.xml
+E:\ITI\final project\library back end\library\bin\EntityFramework.SqlServer.xml
+E:\ITI\final project\library back end\library\bin\Newtonsoft.Json.xml
+E:\ITI\final project\library back end\library\bin\System.Net.Http.Formatting.xml
+E:\ITI\final project\library back end\library\bin\System.Web.Helpers.xml
+E:\ITI\final project\library back end\library\bin\System.Web.Http.xml
+E:\ITI\final project\library back end\library\bin\System.Web.Http.WebHost.xml
+E:\ITI\final project\library back end\library\bin\System.Web.Mvc.xml
+E:\ITI\final project\library back end\library\bin\System.Web.Optimization.xml
+E:\ITI\final project\library back end\library\bin\System.Web.Razor.xml
+E:\ITI\final project\library back end\library\bin\System.Web.WebPages.xml
+E:\ITI\final project\library back end\library\bin\System.Web.WebPages.Deployment.xml
+E:\ITI\final project\library back end\library\bin\System.Web.WebPages.Razor.xml
+E:\ITI\final project\library back end\library\bin\Antlr3.Runtime.pdb
+E:\ITI\final project\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\final project\library back end\library\obj\Debug\library.csprojAssemblyReference.cache
+E:\ITI\final project\library back end\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+E:\ITI\final project\library back end\library\obj\Debug\library.csproj.CopyComplete
+E:\ITI\final project\library back end\library\obj\Debug\library.dll
+E:\ITI\final project\library back end\library\obj\Debug\library.pdb
+E:\ITI\final project\library back end\library\obj\Debug\library.Migrations.aaaaaa.resources
+E:\ITI\final project\library back end\library\obj\Debug\library.csproj.GenerateResource.cache
+E:\ITI\final project\library back end\library\obj\Debug\library.Migrations.editborrowebook.resources
+C:\Users\HP\Desktop\final project\library back end\library\bin\library.dll.config
+C:\Users\HP\Desktop\final project\library back end\library\bin\library.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\library.pdb
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\final project\library back end\library\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\final project\library back end\library\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\EntityFramework.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Http.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Http.WebHost.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\WebGrease.dll
+C:\Users\HP\Desktop\final project\library back end\library\bin\EntityFramework.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Http.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Http.WebHost.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\final project\library back end\library\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\final project\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\final project\library back end\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\final project\library back end\library\obj\Debug\library.Migrations.aaaaaa.resources
+C:\Users\HP\Desktop\final project\library back end\library\obj\Debug\library.Migrations.editborrowebook.resources
+C:\Users\HP\Desktop\final project\library back end\library\obj\Debug\library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\final project\library back end\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\final project\library back end\library\obj\Debug\library.csproj.CopyComplete
+C:\Users\HP\Desktop\final project\library back end\library\obj\Debug\library.dll
+C:\Users\HP\Desktop\final project\library back end\library\obj\Debug\library.pdb
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\library.dll.config
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\library.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\library.pdb
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\csc.exe
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\csc.exe.config
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\csc.rsp
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\csi.exe
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\csi.exe.config
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\csi.rsp
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.Managed.Core.targets
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.AppContext.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Collections.Immutable.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Console.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.IO.Compression.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.IO.FileSystem.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.IO.Pipes.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Reflection.Metadata.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Security.AccessControl.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Security.Claims.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Security.Principal.Windows.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.ValueTuple.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Xml.XmlDocument.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Xml.XPath.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\vbc.exe
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\vbc.exe.config
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\vbc.rsp
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\VBCSCompiler.exe
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\roslyn\VBCSCompiler.exe.config
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\Antlr3.Runtime.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\EntityFramework.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\EntityFramework.SqlServer.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\Microsoft.Web.Infrastructure.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\Newtonsoft.Json.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Net.Http.Formatting.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Helpers.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Http.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Http.WebHost.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Mvc.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Optimization.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Razor.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.WebPages.Deployment.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.WebPages.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.WebPages.Razor.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\WebGrease.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\EntityFramework.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\EntityFramework.SqlServer.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\Newtonsoft.Json.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Net.Http.Formatting.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Helpers.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Http.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Http.WebHost.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Mvc.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Optimization.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Razor.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.WebPages.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.WebPages.Deployment.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.WebPages.Razor.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\Antlr3.Runtime.pdb
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\obj\Debug\library.csprojAssemblyReference.cache
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\obj\Debug\library.csproj.CopyComplete
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\obj\Debug\library.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\obj\Debug\library.pdb
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Cors.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Http.Cors.dll
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\bin\System.Web.Http.Cors.xml
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\obj\Debug\library.Migrations.createnew.resources
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\obj\Debug\library.csproj.GenerateResource.cache
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\obj\Debug\library.Migrations.Reate.resources
+E:\courses\ITI\Angular\angularFinalProject\final projectlolo\library back end\library\obj\Debug\library.Migrations.noReate.resources
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\library.dll.config
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\library.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\library.pdb
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\csc.exe
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\csc.exe.config
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\csc.rsp
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\csi.exe
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\csi.exe.config
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\csi.rsp
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.AppContext.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Console.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.IO.Compression.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.IO.Pipes.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Security.Claims.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.ValueTuple.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Xml.XPath.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\vbc.exe
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\vbc.exe.config
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\vbc.rsp
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\VBCSCompiler.exe
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\Antlr3.Runtime.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\EntityFramework.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\EntityFramework.SqlServer.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\Newtonsoft.Json.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Net.Http.Formatting.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Cors.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Helpers.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Http.Cors.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Http.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Http.WebHost.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Mvc.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Optimization.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Razor.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.WebPages.Deployment.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.WebPages.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.WebPages.Razor.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\WebGrease.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\EntityFramework.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\EntityFramework.SqlServer.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Http.Cors.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\Newtonsoft.Json.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Net.Http.Formatting.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Helpers.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Http.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Http.WebHost.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Mvc.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Optimization.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.Razor.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.WebPages.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.WebPages.Deployment.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\System.Web.WebPages.Razor.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\Antlr3.Runtime.pdb
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\obj\Debug\library.csprojAssemblyReference.cache
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\obj\Debug\library.csproj.CopyComplete
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\obj\Debug\library.dll
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\obj\Debug\library.pdb
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\obj\Debug\library.Migrations.CreateDB.resources
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\obj\Debug\library.csproj.GenerateResource.cache
+C:\Users\123\Desktop\v2\final projectlolo\library back end\library\obj\Debug\library.Migrations.BorrowBook.resources
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\library.dll.config
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\library.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\library.pdb
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\csc.exe
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\csc.exe.config
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\csc.rsp
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\csi.exe
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\csi.exe.config
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\csi.rsp
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.Managed.Core.targets
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.AppContext.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Collections.Immutable.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Console.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.IO.Compression.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.IO.FileSystem.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.IO.Pipes.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Reflection.Metadata.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.AccessControl.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Claims.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Principal.Windows.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.ValueTuple.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Xml.XmlDocument.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Xml.XPath.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\vbc.exe
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\vbc.exe.config
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\vbc.rsp
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\VBCSCompiler.exe
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\roslyn\VBCSCompiler.exe.config
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\Antlr3.Runtime.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\EntityFramework.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\EntityFramework.SqlServer.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\Microsoft.Web.Infrastructure.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\Newtonsoft.Json.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Net.Http.Formatting.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Cors.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Helpers.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Http.Cors.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Http.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Http.WebHost.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Mvc.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Optimization.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Razor.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.Deployment.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.Razor.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\WebGrease.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\EntityFramework.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\EntityFramework.SqlServer.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Http.Cors.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\Newtonsoft.Json.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Net.Http.Formatting.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Helpers.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Http.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Http.WebHost.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Mvc.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Optimization.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.Razor.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.Deployment.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.Razor.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\Antlr3.Runtime.pdb
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\obj\Debug\library.csprojAssemblyReference.cache
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\obj\Debug\library.csproj.CopyComplete
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\obj\Debug\library.dll
+E:\courses\ITI\Angular\angularFinalProject\backend\final projectlolo\library back end\library\obj\Debug\library.pdb
+D:\final project iti\backend\final projectlolo\library back end\library\bin\library.dll.config
+D:\final project iti\backend\final projectlolo\library back end\library\bin\library.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\library.pdb
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\csc.exe
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\csc.exe.config
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\csc.rsp
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\csi.exe
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\csi.exe.config
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\csi.rsp
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.Managed.Core.targets
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.AppContext.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Collections.Immutable.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Console.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.IO.Compression.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.IO.FileSystem.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.IO.Pipes.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Reflection.Metadata.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.AccessControl.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Claims.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Security.Principal.Windows.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.ValueTuple.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Xml.XmlDocument.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Xml.XPath.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\vbc.exe
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\vbc.exe.config
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\vbc.rsp
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\VBCSCompiler.exe
+D:\final project iti\backend\final projectlolo\library back end\library\bin\roslyn\VBCSCompiler.exe.config
+D:\final project iti\backend\final projectlolo\library back end\library\bin\Antlr3.Runtime.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\EntityFramework.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\EntityFramework.SqlServer.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\Microsoft.Web.Infrastructure.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\Newtonsoft.Json.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Net.Http.Formatting.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Cors.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Helpers.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Http.Cors.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Http.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Http.WebHost.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Mvc.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Optimization.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Razor.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.Deployment.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.Razor.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\WebGrease.dll
+D:\final project iti\backend\final projectlolo\library back end\library\bin\EntityFramework.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\EntityFramework.SqlServer.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Http.Cors.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\Newtonsoft.Json.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Net.Http.Formatting.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Helpers.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Http.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Http.WebHost.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Mvc.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Optimization.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.Razor.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.Deployment.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\System.Web.WebPages.Razor.xml
+D:\final project iti\backend\final projectlolo\library back end\library\bin\Antlr3.Runtime.pdb
+D:\final project iti\backend\final projectlolo\library back end\library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\final project iti\backend\final projectlolo\library back end\library\obj\Debug\library.csprojAssemblyReference.cache
+D:\final project iti\backend\final projectlolo\library back end\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+D:\final project iti\backend\final projectlolo\library back end\library\obj\Debug\library.csproj.CopyComplete
+D:\final project iti\backend\final projectlolo\library back end\library\obj\Debug\library.dll
+D:\final project iti\backend\final projectlolo\library back end\library\obj\Debug\library.pdb
+D:\final project iti\backend\final projectlolo\library back end\library\obj\Debug\library.Migrations.createdb.resources
+D:\final project iti\backend\final projectlolo\library back end\library\obj\Debug\library.csproj.GenerateResource.cache
