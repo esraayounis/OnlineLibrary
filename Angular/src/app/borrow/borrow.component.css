@@ -1,0 +1,17 @@
+*
+{
+    transition: all 1s;
+}
+.categor_content
+{
+    right: 0px;
+
+}
+.categor_content #card1 img:hover
+{
+    transform: scale(1.1,1.1);
+}
+.categor_content #card1 img:hover , #card1
+{
+    overflow: hidden;
+}

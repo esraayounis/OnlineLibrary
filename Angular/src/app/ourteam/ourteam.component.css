@@ -1,0 +1,22 @@
+
+/*our_team */
+
+.our_team a{
+    color: white;
+}
+.our_team h1
+{
+    font-weight: bold;
+    margin-bottom: 40px;
+    padding-top: 50px;
+}
+.our_team .person
+{
+    margin-bottom: 50px;
+}
+
+
+.team img
+{
+    border-radius: 50%;
+}

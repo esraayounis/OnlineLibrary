@@ -1,0 +1,19 @@
+
+
+  <div style="text-align:center mt-5">
+    <h3 class="mt-5 btn btn-primary">Book For Borrow</h3>
+  <owl-carousel-o [options]="customOptions">
+  <ng-template *ngFor="let d of borrowbooks " carouselSlide>
+      <div class="px-2">
+            <div style="max-width: 250px;max-height:350px" class="card " id="card1" >
+                    <img [src]="d.Image" style="max-height: 250px; min-height: 250px;" class="card-img-top img-fluid" alt="...">
+                    <div class="card-body">
+                     <h5 class="card-title">{{d.Title}}</h5>
+                     <a [routerLink]="['/borrowbook',d.ID]" class="btn btn-primary">Borrow ...</a>
+                    </div>
+                </div>
+      </div>
+        
+ 
+  </ng-template> 
+</owl-carousel-o>

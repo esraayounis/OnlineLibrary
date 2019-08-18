@@ -1,0 +1,18 @@
+<div class="container mt-5">
+    <form>
+        <div class="form-group">
+          <label for="exampleInputEmail1">User Name</label>
+          <input type="text" #inputuser  class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter User Name">
+        </div>
+        <div class="form-group">
+          <label for="exampleInputPassword1">Password</label>
+          <input type="password" #inputpass class="form-control" id="exampleInputPassword1" placeholder="Password">
+        </div>
+        <a *ngIf="notvalid==true" routerLink="/afterlgin" (click)="search(inputuser.value,inputpass.value)" class="btn btn-primary">Login</a>
+
+        <a *ngIf="notvalid==false" routerLink="/dataentry" (click)="search(inputuser.value,inputpass.value)" class="btn btn-primary">Login</a>
+        
+      </form>
+      
+</div>
+

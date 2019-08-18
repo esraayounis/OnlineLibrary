@@ -1,0 +1,102 @@
+<section class="container mt-5" >
+  <div class="row">
+   
+    <div class="col-md-6">
+
+        <div class="">
+            <form [formGroup]="formlogin">
+             
+              <div class="form-group">
+                <h1>Log in if you registered before</h1>
+                  <label>User Name</label>
+                  <input formControlName="UserName" #user type="text" class="form-control"  aria-describedby="emailHelp" placeholder="Enter Name">
+                  <!-- <div *ngIf="form.controls['UserName'].invalid && form.controls['UserName'].touched">
+                  </div> -->
+                </div>
+              <div class="form-group">
+                  <label>Password</label>
+                  <input formControlName="Password" #pass type="password" class="form-control" name="password" id="password" placeholder="Password">
+                  <div *ngIf="form.controls['Password'].invalid && form.controls['Password'].touched" >
+                  </div>
+                </div>
+                <button  (click)="login(user.value,pass.value)" type="submit" class="btn btn-primary">Submit</button>
+              </form>
+            </div>
+    </div>
+    <div class="col-md-6" >
+<div class=" ">
+  <form [formGroup]="form">
+    <div class="form-group">
+      <h1>Register!</h1>
+      <label>First Name</label>
+      <input formControlName="FirstName" type="text" class="form-control"  placeholder=" Enter First Name ">
+      <div *ngIf="form.controls['FirstName'].invalid && form.controls['FirstName'].touched" >
+            <small *ngIf="form.controls['FirstName'].errors.required" class="form-text text-danger">First Name is required</small>
+            <small *ngIf="form.controls['FirstName'].errors.minlength" class="form-text text-danger"> min length is 3</small>
+            <small *ngIf="form.controls['FirstName'].errors.maxlength" class="form-text text-danger"> max length is 10</small>
+            <small *ngIf="form.controls['FirstName'].errors.pattern" class="form-text text-danger">Name Must Contain Characters Only</small>
+      </div>
+    </div>  
+    <div class="form-group">
+      <label>Last Name</label>
+      <input formControlName="LastName" type="text" class="form-control"  placeholder="Enter Last Name">
+      <div *ngIf="form.controls['LastName'].invalid && form.controls['LastName'].touched" >
+            <small *ngIf="form.controls['LastName'].errors.required" class="form-text text-danger">Last Name is required</small>
+            <small *ngIf="form.controls['LastName'].errors.minlength" class="form-text text-danger"> min length is 3</small>
+            <small *ngIf="form.controls['LastName'].errors.maxlength" class="form-text text-danger"> max length is 10</small>
+            <small *ngIf="form.controls['LastName'].errors.pattern" class="form-text text-danger">Name Must Contain Characters Only</small>
+      </div>
+    </div>  
+    <div class="form-group">
+      <label>Address</label>
+      <input formControlName="Address" type="text" class="form-control"  placeholder=" Enter Address">
+      <div *ngIf="form.controls['Address'].invalid && form.controls['Address'].touched" >
+            <small *ngIf="form.controls['Address'].errors.minlength" class="form-text text-danger"> min length is 10</small>
+            <small *ngIf="form.controls['Address'].errors.maxlength" class="form-text text-danger"> max length is 50</small>
+      </div>
+    </div>
+    <div class="form-group">
+      <label>Phone Number</label>
+      <input formControlName="mobile" type="text" class="form-control"  placeholder="Enter Phone Number">
+      <div *ngIf="form.controls['mobile'].invalid && form.controls['mobile'].touched" >
+          <small *ngIf="form.controls['mobile'].errors.pattern" class="form-text text-danger">Field Must Contain Numbers Only</small>
+            <small *ngIf="form.controls['mobile'].errors.minlength" class="form-text text-danger"> min length is 11</small>
+            <small *ngIf="form.controls['mobile'].errors.maxlength" class="form-text text-danger"> max length is 11</small>
+      </div>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Email address</label>
+        <input formControlName="Email" type="text" class="form-control"  aria-describedby="emailHelp" placeholder="Enter email">
+        <div *ngIf="form.controls['Email'].invalid">
+          <small *ngIf="form.controls['Email'].errors.required" class="form-text text-danger"> email is required</small>
+          <small *ngIf="form.controls['Email'].errors.email" class="form-text text-danger">invalid email</small>
+          <small *ngIf="form.controls['Email'].errors.minlength" class="form-text text-danger">min length is 6</small>
+          <small *ngIf="form.controls['Email'].errors.maxlength" class="form-text text-danger"> max length is 30</small>
+          <small *ngIf="form.controls['Email'].errors.cannotConatainSpace" class="form-text text-danger">email can not contain space</small>
+  
+        </div>
+      </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Password</label>
+        <input formControlName="Password" type="password" class="form-control" name="password" id="password" placeholder="Password">
+        <div *ngIf="form.controls['Password'].invalid && form.controls['Password'].touched" >
+              <small *ngIf="form.controls['Password'].errors.required" class="form-text text-danger"> password is required</small>
+              <small *ngIf="form.controls['Password'].errors.minlength" class="form-text text-danger"> min length is 6</small>
+              <small *ngIf="form.controls['Password'].errors.maxlength" class="form-text text-danger"> max length is 20</small>
+        </div>
+      </div>
+      <div class="form-group">
+          <label>Confirm Password</label>
+          <input formControlName="ConfirmPassword" type="password" appConfirmEqualValidator="Password" class="form-control"  placeholder="Password">
+          <div *ngIf="form.controls['ConfirmPassword'].invalid && form.controls['ConfirmPassword'].touched" >
+              <small *ngIf ="form.controls['ConfirmPassword'].errors.required"> confirmPassword Required</small>
+              <small *ngIf ="form.controls['ConfirmPassword'].errors.NotEqual" > Password and confirmPassword not Equal</small>
+          </div>
+        </div>
+      <button (click)="register()" routerLink="/home" [disabled]="form.invalid" type="submit" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+    </div>
+  </div>
+</section>
+

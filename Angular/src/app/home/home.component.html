@@ -1,0 +1,19 @@
+
+  <div class="categor_content" style="text-align:center mt-3; ">
+    <h3 class="mt-2  btn btn-dark">All Books</h3>
+    <input type="text" placeholder="Search About Your Book" class="form-control my-4 " [(ngModel)]="term">
+  <owl-carousel-o [options]="customOptions">
+  <ng-template *ngFor="let book of books|bookserach:term"  carouselSlide>
+      <div class="px-2">
+            <div style="max-width:200px" class="card" id="card1" >
+                    <img [src]="book.Image" style="max-height: 250px; min-height: 250px;" class="card-img-top img-fluid" alt="...">
+                    <div class="card-body" style="background-image: url(./assets/images/bgjpg.jpg); background-size:100% 100%">
+                     <h5 class="card-title">{{book.Title}}</h5>
+                     <a [routerLink]="['/bookdetails',book.Title]" class="btn btn-primary">Details ...</a>
+                    </div>
+                </div>
+      </div>
+        
+  </ng-template> 
+
+</owl-carousel-o>

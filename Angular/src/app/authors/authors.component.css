@@ -1,0 +1,18 @@
+/************ Autor Page ***************/
+*
+{
+    transition: all 2s;
+}
+.Authorcontainer #card1 img:hover
+{
+    transform: scale(1.1,1.1);
+}
+.Authorcontainer #card1 img:hover , #card1
+{
+    overflow: hidden;
+}
+.imageheight
+{
+    max-height: 200px; min-height: 200px;
+
+}

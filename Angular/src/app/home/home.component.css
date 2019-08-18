@@ -1,0 +1,21 @@
+*
+{
+    transition: all 1.5s;
+}
+.categor_content
+{
+   
+    
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    margin-top: 30px;
+
+}
+ #card1 img:hover
+{
+    transform: scale(1.1,1.1);
+}
+ #card1 img:hover , #card1
+{
+    overflow: hidden;
+}

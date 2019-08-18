@@ -1,0 +1,9 @@
+<div class=" Category" style="background-image:url(./assets/images/5.jpg)">
+  <h2 class="mt-5  text-center " >Category</h2>
+  <div *ngIf="!isloading"><img src="./assets/images/tenor.gif"></div>
+  <ul>
+      <li *ngFor="let cat of catnames"> 
+        <a [routerLink]="['/categoreis',cat.catname]">{{cat.catname}}</a>
+      </li>
+  </ul>
+</div>

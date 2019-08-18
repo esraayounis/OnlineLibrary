@@ -1,0 +1,107 @@
+
+        
+            <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top " style="background: url(./assets/images/bgjpg.jpg) !important;">
+                <a class="navbar-brand" href="#"><img class=" rounded-circle" src="./assets/images/1.jpg"/></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                      <a class="nav-link" routerLink="/home">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link"  routerLink="/authors">Authors</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                      <a class="nav-link" routerLink="/aboutus" href="#">AboutUs</a>
+                    </li>
+                    <!-- <li class="nav-item">
+                            <a class="nav-link" href="#">ContactUs</a>
+                    </li> -->
+                    <li class="nav-item">
+                      <a class="nav-link" routerLink="/ourteam">Our Team</a>
+                    </li>
+                    
+                  </ul>
+                  
+                  <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                          <a class="nav-link" routerLink="/formoncomponent"  ><button class="btn btn-primary"  > Login </button></a>
+                        </li>
+                         <li class="nav-item">
+                                    <a class="nav-link" routerLink="/borrow"><button class="btn btn-info" > Borrow </button></a>
+                            </li>
+                                <li class="nav-item">
+                                 <a class="nav-link " href="#"><button  class="btn btn-dark "><fa-icon [icon]="faCoffee"></fa-icon></button>  </a>
+                             </li>
+                      </ul>
+                </div>
+              </nav>
+               <!-- Modal For Sign in OR Sign Up -->
+               <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
+                      <!-- <h4 class="modal-title " id="myModalLabel"> -->
+                            <h2 class="text-center m-auto">Registration Form</h2>
+
+                    </div>
+                    <div class="modal-body ">
+                          <div class="row">
+                                <div class="col-6 signin">
+                                    <h3 class="text-center ">Sign In</h3>
+                                    <form>
+                                        <div class="form-group">
+                                          <label for="exampleInputEmail1">Full Name</label>
+                                          <input type="text" #username class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                                          </div>
+                                        <div class="form-group">
+                                          <label for="exampleInputPassword1">Password</label>
+                                          <input type="password" #password class="form-control" id="exampleInputPassword1" placeholder="Password">
+                                        </div>
+                                       
+                                        <button type="submit" (click)="userlogin(username.value,password.value)" class="btn btn-primary">Signin</button>
+                                      </form>
+                                </div>
+                                <div style="border-left:2px black solid;" class="col-6 signup">
+                                        <h3 class="text-center ">Sign Up</h3>
+                                    <form>
+                                        <div class="form-row">
+                                             <div class="form-group col-md-6">
+                                          <label for="firstname">First Name</label>
+                                          <input type="email" class="form-control" id="firstname" aria-describedby="emailHelp" placeholder="First Name">
+                                          </div>
+                                          <div class="form-group col-md-6">
+                                            <label for="LastName">Last Name</label>
+                                            <input type="email" class="form-control" id="LastName" aria-describedby="emailHelp" placeholder=" Last Name">
+                                            </div>
+                                        </div>
+                                       
+                                            <div class="form-group">
+                                                    <label for="email">Email address</label>
+                                                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+                                             </div>
+                                        <div class="form-group">
+                                          <label for="Password">Password</label>
+                                          <input type="password" class="form-control" id="Password" placeholder=" Enter Password">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="ConfirmPassword">Confirm Password</label>
+                                            <input type="email" class="form-control" id="ConfirmPassword" aria-describedby="emailHelp" placeholder=" Confirm Password">
+                                            </div>
+                                       
+                                        <button  type="submit" class="btn btn-primary">SignUp</button>
+                                      </form>
+                                </div>
+                          </div>
+                    </div>
+                    </div>
+                    
+                  </div>
+                </div>
+  <!-- End Model -->
+

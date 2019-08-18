@@ -1,0 +1,41 @@
+*
+{
+    transition: all 1s;
+}
+/* Navbar Section */
+.navbar
+{
+    background-color: #AE7A2F ;
+    color: white;
+    
+    background-size: 100% 100%;
+    background-attachment: fixed;
+} 
+.navbar img
+{
+    width: 60px;
+    height: 60px;
+}
+.navbar #navbarSupportedContent .nav-item  a
+{
+    color: #B3B3B5;
+    font-size: 17px;
+
+}
+.navbar #navbarSupportedContent .nav-item  a:hover
+{
+    background-color: #B3B3B5;
+    border-radius: 10px;
+    padding: 5px 15px;
+    color: darkred;
+    margin-right: 5px;
+}
+/************** Strat Modal For Sign ********************/
+.signdiv
+{
+    width: 2px;
+    height: 20px;
+    background-color: black;
+}
+
+/************** End Modal For Sign ********************/

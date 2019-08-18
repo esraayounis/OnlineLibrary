@@ -1,0 +1,321 @@
+
+   
+      
+    <!-- Title:string;
+    NumberOfPage:number;
+    contentPDF:string;
+    Image:string;
+    Price:number;
+    PublishDate:Date;
+    AutherName:string;
+    CategoryName:string;
+    PublisherName:string; -->
+<section class="container sec mt-5">
+  <div class="row">
+    <div class="col-md-4 col-6">
+        <!-- <button  class="btn btn-primary" data-toggle="modal" data-target="#addbook">Add New Book</button> -->
+        <!-- Modal For Sign in OR Sign Up -->
+        <div class="modal fade" id="addbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <!-- <h4 class="modal-title " id="myModalLabel"> -->
+                        <h2 class="text-center m-auto">ADD New Book</h2>
+      
+                </div>
+                <div class="modal-body ">
+                    <form class="py-1">
+                        <div class="form-group">
+                          <label class="col-form-label" for="title"> Book Name</label>
+                          <input #title name="" type="text" class="form-control" id="title" placeholder="Enter Book Name">
+                        </div>
+                        <div class="form-group">
+                          <label class="col-form-label" for="NumberOfPage"> NumberOfPage</label>
+                          <input #numberOfPage name="" type="number" class="form-control" id="NumberOfPage" placeholder="Enter NumberOfPage">
+                        </div>
+                        <div class="form-group">
+                          <label class="col-form-label" for="contentPDF"> Age Of Book</label>
+                          <input #contentPDF1 name="" type="text" class="form-control" id="contentPDF" placeholder="Enter age of book">
+                        </div>
+                        <div class="form-group">
+                          <label class="col-form-label" for="ImageLink"> Image</label>
+                          <input #image value="./assets/images/here.jpg" name="" type="text" class="form-control" id="ImageLink" placeholder="Enter ImageLink">
+                        </div>
+                        <div class="form-group">
+                          <label class="col-form-label" for="Price"> Price</label>
+                          <input #price name="" type="number" class="form-control" id="Price" placeholder="Enter Price">
+                        </div>
+                        <div class="form-group">
+                          <label class="col-form-label" for="Author">Author Name</label>
+                          <select #autherName id="Author" class="form-control"  >
+                              <option *ngFor="let a of getauthors" [value]="a.authorname">{{a.authorname}}</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                          <label  class="col-form-label" for="Publisher">Publisher Name</label>
+                          <select #publisherName id="Publisher" class="form-control"  >
+                              <option *ngFor="let pub of getpublishers" [value]="pub.publishername">{{pub.publishername}}</option>
+                            </select>
+                        </div>
+                      
+                        <div class="form-group">
+                          <label class="col-form-label" for="Publisherdate">Publisher Date</label>
+                          <input #publishDate name="" type="date" class="form-control" id="Publisherdate" placeholder=" Enter Publisher Date">
+                        </div>
+                        <div class="form-group">
+                          <label class="col-form-label" for="BookCategory">Book Category</label>
+                          <select #categoryName id="BookCategory" class="form-control"  >
+                              <option *ngFor="let cat1 of getcategories " [value]="cat1.catname">{{cat1.catname}}</option>
+                              
+                            </select>
+                        </div>
+                                                                                               
+                        <button (click)="addBook(title.value,numberOfPage.value,contentPDF1.value,image.value,price.value,publishDate.value,autherName.value,categoryName.value,publisherName.value)" class="btn btn-primary">Submit</button>
+                      </form>  
+                </div>
+                </div>
+                
+              </div>
+            </div>
+      <!-- End Model Add New Book -->
+      <!-- start Model Add New author -->
+      <!-- name :string,
+    autherImage : string,
+    jobDescribtion: string -->
+    </div>
+    <div class="col-md-4 col-6">
+        <!-- <button class="btn btn-primary" data-toggle="modal" data-target="#addauthor">Add Author</button> -->
+        <!-- Modal For Sign in OR Sign Up -->
+        <div class="modal fade" id="addauthor" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <!-- <h4 class="modal-title " id="myModalLabel"> -->
+                        <h2 class="text-center m-auto">ADD New Author</h2>
+        
+                </div>
+                <div class="modal-body ">
+                    <form class="py-1">
+                        <div class="form-group">
+                          <label class="col-form-label" for="Author"> Author Name</label>
+                          <input #name name="" type="text" class="form-control" id="Author" placeholder="Enter Author Name">
+                        </div>
+                        <div class="form-group">
+                          <label class="col-form-label" for="AImage">  Author Image</label>
+                          <input #autherImage name="" type="text" class="form-control" id="AImage" placeholder="Enter Author ImageLink">
+                        </div>
+                        <div class="form-group">
+                            <label class="col-form-label" for="jopdesc"> Jop Desc</label>
+                            <textarea #desc class="form-control" id="jopdesc" placeholder="Author Desc"></textarea>
+                          </div>
+                        <button (click)="addAuthor(name.value,autherImage.value,desc.value)" class="btn btn-primary">Submit</button>
+                      </form>  
+                </div>
+                </div>
+                
+              </div>
+            </div>
+        <!-- End Model Add New Book -->
+      </div>
+      
+      <div class="col-md-4 col-6 ">
+          <!-- <button  class="btn btn-primary mt-2" data-toggle="modal" data-target="#publisher">Add Publisher</button> -->
+          <!-- Modal For Sign in OR Sign Up -->
+          <div class="modal fade" id="publisher" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <!-- <h4 class="modal-title " id="myModalLabel"> -->
+                          <h2 class="text-center m-auto">ADD New Publisher</h2>
+        
+                  </div>
+                  <div class="modal-body ">
+                      <form class="py-1">
+                          <div class="form-group">
+                            <!-- <label class="col-form-label" for="publisher"> Publisher Name</label> -->
+                            <input #publisher name="" type="text" class="form-control" id="publisher" placeholder="Enter publisher Name">
+                          </div>
+                          <!--<div class="form-group">
+                              <label class="col-form-label" for="jopdesc"> publisher Desc</label>
+                              <textarea class="form-control" id="jopdesc" placeholder="publisher Desc"></textarea>
+                            </div>-->
+                          
+                          <button (click)="addPublisher(publisher.value)" class="btn btn-primary">Submit</button>
+                        </form>
+                  </div>
+                  </div>
+                  
+                </div>
+              </div>
+        <!-- End Model Add New Book -->
+      </div>
+
+  </div>
+   <!-- Second Line Of Buttons -->
+  <div class="row mt-5">
+      <div class="col-md-4 col-6">
+          <!-- <button class="btn btn-primary" data-toggle="modal" data-target="#Category">Add  Category</button> -->
+          <!-- Modal For Sign in OR Sign Up -->
+          <div class="modal fade" id="Category" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <!-- <h4 class="modal-title " id="myModalLabel"> -->
+                          <h2 class="text-center m-auto">ADD  Category</h2>
+        
+                  </div>
+                  <div class="modal-body ">
+                      <form class="py-1">
+                          <div class="form-group">
+                            <label class="col-form-label" for="publisher"> Category Name</label>
+                            <input #cat  name="" type="text" class="form-control" id="publisher" placeholder="Enter Category Name">
+                          </div>
+                         
+                          
+                          <button (click)="addCategory(cat.value)" class="btn btn-primary">Submit</button>
+                        </form>
+                  </div>
+                  </div>
+                  
+                </div>
+              </div>
+        <!-- End Model Add New Book -->
+      </div>
+      <div class="col-md-4 col-6">
+          <!-- <button class="btn btn-primary" data-toggle="modal" data-target="#copyies">Add N.Of Copies</button> -->
+          <!-- Modal For Sign in OR Sign Up -->
+          <div class="modal fade" id="copyies" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <!-- <h4 class="modal-title " id="myModalLabel"> -->
+                          <h2 class="text-center m-auto">ADD Num.Of Copies</h2>
+          
+                  </div>
+                  <div class="modal-body ">
+                      <form class="py-1">
+                          <div class="form-group">
+                            <label  class="col-form-label" for="copy"> Add Copies</label>
+                            <input #copies name="" type="number" class="form-control" id="copy" placeholder="Enter N.of Copies">
+                          </div>
+                          <div class="form-group">
+                              <label class="col-form-label" for="copies">Book Name</label>
+                              <select #booksname  id="copies" class="form-control"  >
+                                  <option *ngFor="let pub of booknamelist" [value]="pub.Title">{{pub.Title}}</option>
+                                </select>
+                              </div>
+                          
+                          
+                          <button (click)="addbookcopies(copies.value,booksname.value)" class="btn btn-primary">Submit</button>
+                        </form>  
+                  </div>
+                  </div>
+                  
+                </div>
+              </div>
+          <!-- End Model Add New Book -->
+          <!-- <button   class="btn btn-primary " data-toggle="modal" data-target="#addborrowbook">Add New Borrow Book</button> -->
+        <!-- Modal For Sign in OR Sign Up -->
+        <div class="modal fade" id="addborrowbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <!-- <h4 class="modal-title " id="myModalLabel"> -->
+                        <h2 class="text-center m-auto">ADD New Borow Book</h2>
+      
+                </div>
+                <div class="modal-body ">
+                    <form class="py-1">
+                        <div class="form-group">
+                          <label class="col-form-label" for="borow">borow Book Name</label>
+                          <input #borow name="" type="text" class="form-control" id="borow" placeholder="Enter borow Book Name">
+                        </div>
+                        <div class="form-group">
+                          <label class="col-form-label" for="NumberOfPage1"> NumberOfPage</label>
+                          <input #NumberOfPage1 name="" type="number" class="form-control" id="NumberOfPage1" placeholder="Enter NumberOfPage">
+                        </div>
+                      
+                        <div class="form-group">
+                          <label class="col-form-label" for="ImageLink1"> Image</label>
+                          <input #ImageLink1 name="" type="text" class="form-control" id="ImageLink1" placeholder="Enter ImageLink">
+                        </div>
+                        
+                        <div class="form-group">
+                          <label class="col-form-label">Author Name</label>
+                          <!-- <select #Author1 id="Author1" class="form-control"  >
+                              <option *ngFor="let a of getauthors" [value]="a.authorname">{{a.authorname}}</option>
+                            </select> -->
+                          <input #Author1 name="" type="text" class="form-control"  placeholder="Enter Author Name">
+
+                        </div>
+                        <div class="form-group">
+                          <label  class="col-form-label">Publisher Name</label>
+                          <!-- <select #Publisher1 id="Publisher1" class="form-control"  >
+                              <option *ngFor="let pub of getpublishers" [value]="pub.publishername">{{pub.publishername}}</option>
+                            </select> -->
+                            <input #Publisher1 name="" type="text" class="form-control"  placeholder="Enter Publisher Name">
+                        </div>    
+                                                                                   
+                        <button (click)="addborowbook(borow.value,Author1.value,Publisher1.value,NumberOfPage1.value,ImageLink1.value)" class="btn btn-primary">Submit</button>
+                      </form>  
+                </div>
+                </div>
+                
+              </div>
+            </div>
+      <!-- End Model Add New Book -->
+      <!-- <a [routerLink]="['/request']" class="btn btn-primary">show requests ...</a> -->
+  
+    
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+<section class="container mt-5">
+  <div class="row">
+    <div class="col-md-4 mt-3">
+      
+      <button  class="btn btn-primary" data-toggle="modal" data-target="#addbook">Add New Book</button>
+
+    </div>
+    <div class="col-md-4 mt-3">
+      <button class="btn btn-primary" data-toggle="modal" data-target="#addauthor">Add Author</button>
+     
+    </div>
+    <div class="col-md-4 mt-3">
+      <button  class="btn btn-primary mt-2" data-toggle="modal" data-target="#publisher">Add Publisher</button>
+   
+    </div>
+   
+    <div class="col-md-4 mt-3">
+      <button class="btn btn-primary" data-toggle="modal"  data-target="#Category">Add  Category</button>
+    
+    </div>
+    <div class="col-md-4 mt-3">
+      <button class="btn btn-primary" data-toggle="modal" data-target="#copyies">Add N.Of Copies</button>
+     
+    </div>
+    <div class="col-md-4 mt-3">
+      <button   class="btn btn-primary " data-toggle="modal" data-target="#addborrowbook">Add New Borrow Book</button>
+    
+    </div>
+    <div class="col-md-4 mt-3">
+      <a [routerLink]="['/request']" class="btn btn-primary">show requests ...</a>
+    
+    </div>
+  </div>
+
+</section>

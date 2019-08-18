@@ -1,0 +1,25 @@
+<section class="authordetails mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <img style="max-height: 200px; min-height: 200px;" class="img-fluid image  " [src]="authorobj.AutherImage">
+            </div>
+            <div class="col-md-9 ">
+                <h2  class="py-3 mt-4">{{authorobj.Name}}</h2>
+                <p>{{authorobj.JobDescribtion}}</p>
+            </div>
+        </div>
+        <div class="row mt-5">
+             <div *ngFor="let book of books" class="col-md-3 " >
+                <div>
+                    <div  class="card" id="authorcard" >
+                        <img [src]="book.bookimage" class="card-img-top" alt="...">
+                        <div class="card-body">
+                        <h5 class="card-title">{{book.bookname}}</h5>
+                        </div>
+                    </div>
+                </div> 
+          </div>
+        </div>
+    </div>
+</section>

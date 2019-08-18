@@ -1,0 +1,18 @@
+<div style="text-align:center mt-5">
+  <h3 class="mt-5 ml-2 btn btn-dark">Book Of Catgory</h3>
+<owl-carousel-o [options]="customOptions">
+<ng-template *ngFor="let book of booksofcat"  carouselSlide>
+    <div class="px-2">
+          <div  class="card " id="card1" >
+                  <img style="max-height: 250px" [src]="book.Image" class="card-img-top img-fluid" alt="...">
+                  <div class="card-body" style="background-image: url(./assets/images/bgjpg.jpg); background-size:100% 100%">
+                   <h5 class="card-title">{{book.Title}}</h5>
+                   <p class="card-text">Details about {{book.Title}}</p>
+                   <a [routerLink]="['/bookdetails',book.Title]" class="btn btn-primary">Details ...</a>
+                  </div>
+              </div>
+    </div>
+      
+</ng-template> 
+</owl-carousel-o>
+

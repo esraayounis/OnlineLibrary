@@ -1,0 +1,14 @@
+
+.leftside
+{
+    position: fixed;
+    height: 100%;
+}
+
+.home
+{
+    position: absolute;
+    right: 0px;
+}
+
+

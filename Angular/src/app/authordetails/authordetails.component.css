@@ -1,0 +1,19 @@
+*
+{
+    transition: all  2s;
+}
+.authordetails .image
+{
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    
+}
+.authordetails #authorcard img:hover
+{
+    transform: scale(1.1,1.1);
+}
+.authordetails #authorcard img:hover , #authorcard
+{
+    overflow: hidden;
+}
